@@ -1,0 +1,9 @@
+{
+  "name": "ts-config",
+  "version": "1.0.0",
+  "description": "Package of internal typescript configurations",
+  "private": true,
+  "scripts": {
+    "clean": "rm -rf dist"
+  }
+}
