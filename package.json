@@ -1,0 +1,19 @@
+{
+  "name": "boilerplate-development",
+  "version": "1.0.0",
+  "description": "Boilerplate template for starting new projects",
+  "private": true,
+  "license": "ISC",
+  "author": "Jhony R. de Souza <jhonyrdesouza@gmail.com>",
+  "scripts": {
+    "start": "",
+    "build": "",
+    "dev": "turbo run dev --parallel",
+    "clean": "turbo run clean --parallel",
+    "format": "prettier --write \"**/*.{ts,js,tsx,md}\" --cache",
+    "lint": "turbo run lint"
+  },
+  "devDependencies": {
+    "turbo": "latest"
+  }
+}
