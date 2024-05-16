@@ -1,0 +1,22 @@
+{
+  "localeSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, br {br Português} en {🇺🇸 English} other {Unknown}}"
+  },
+  "docs": {
+    "title": "Docs",
+    "description": "Find in-depth information about Next.js features and API."
+  },
+  "learn": {
+    "title": "Learn",
+    "description": "Learn about Next.js in an interactive course with quizzes!"
+  },
+  "templates": {
+    "title": "Templates",
+    "description": "Explore starter templates for Next.js."
+  },
+  "deploy": {
+    "title": "Deploy",
+    "description": "Instantly deploy your Next.js site to a shareable URL with Vercel."
+  }
+}
